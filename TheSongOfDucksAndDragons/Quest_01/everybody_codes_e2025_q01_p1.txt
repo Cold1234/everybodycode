@@ -1,0 +1,3 @@
+Calketh,Zraaltaril,Kyoris,Zyrketh,Eltoth,Nyssluth,Zraalonar,Ascaldaros,Thalkyris,Urisis
+
+L9,R9,L6,R1,L1,R9,L2,R1,L8,R9,L2
